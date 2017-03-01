@@ -1,2 +1,2 @@
 # Practise
-Learning and Practicing
+Learning and Practicing the programming from hackerrank and g4g.
